@@ -1,2 +1,1 @@
-# Prueba
-Prueba je
+This is a GAP Package blablablah
